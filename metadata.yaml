@@ -1,0 +1,33 @@
+_repo: Jupiter-Lights_34282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34282-h/images/ill_cover.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: Constance Fenimore Woolson was the great niece of James Fenimore Cooper
+  and a close friend and correspondent of Henry James. A successful short story and
+  novel writer Woolson was one of the ""local color"", or American literary regionalism
+  authors popular in late-nineteenth century America. She travelled a great deal through
+  America and Europe where she gathered material for her works. Woolson's stories
+  focus on character, dialects, customs and landscape that are unique to a region...
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Jupiter Lights
+url: http://www.gutenberg.org/ebooks/34282
